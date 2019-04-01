@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             Patrick B Fuller
+Email:            pat.fuller@flatironschool.com
+Favorite Place:   Baldhead Island
+Favorite Food:    El Toro Margherita Pizza
+Astrology sign:   Pisces
+Favorite Movie:	  Dark Knight
